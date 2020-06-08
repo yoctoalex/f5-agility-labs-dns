@@ -68,9 +68,9 @@ a. `Download Postman here <http://bit.ly/309wSLl>`_, open it, create a Postman a
 
 b. Import collection and environment:
 
-    – collection **<https://bit.ly/3h7x4CX>**
-    
-    – environment **<https://bit.ly/30l3R1q>**
+    – collection: **https://bit.ly/3h7x4CX**
+
+    – environment: **https://bit.ly/30l3R1q**
 
    .. figure:: ../_figures/121.png
    .. figure:: ../_figures/121_1.png
