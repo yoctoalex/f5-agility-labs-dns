@@ -16,7 +16,7 @@ a. Login
 
 In order to access specific F5 Cloud Services, you need to subscribe to the corresponding service catalogs.
 
-#. Click on the **Your F5 Cloud** tab in the left navigation panel and you will see the available service catalogs, as well as the services you have subscribed to, if any. For this lab you will need to click **Subscribe** to **DNS** and **DNS Load Balancer** services.  
+#. Click on the **Your F5 Cloud** tab in the left navigation panel and you will see the available service catalogs, as well as the services you have subscribed to, if any. For this lab you will need to click **Try it free** to **DNS** and **DNS Load Balancer** services.
 
    .. figure:: ../_figures/2.png 
 
@@ -66,13 +66,14 @@ Postman Configuration
 
 a. `Download Postman here <http://bit.ly/309wSLl>`_, open it, create a Postman account if you don’t have one and choose to do so, and sign in.
 
-#. Clone or download and extract the repository
-
-   .. figure:: ../_figures/120.png
-
-#. Import collection – **/postman/F5 Cloud Services DNS LAB.postman_collection.json** and environment – **/postman/F5 Cloud Services DNS LAB.postman_environment.json**.
+#. Import collection and environment:
+    – collection **`https://bit.ly/3h7x4CX<https://bit.ly/3h7x4CX>`**
+    – environment **`https://bit.ly/30l3R1q<https://bit.ly/30l3R1q>`**
 
    .. figure:: ../_figures/121.png
+   .. figure:: ../_figures/121_1.png
+   .. figure:: ../_figures/121_2.png
+   .. figure:: ../_figures/121_3.png
 
    You will now see the imported collection (left side) with the calls that you will be utilizing grouped into several categories, as well as the environment variables (top right) used to store and pass data between Postman and the API.     
 
