@@ -66,9 +66,11 @@ Postman Configuration
 
 a. `Download Postman here <http://bit.ly/309wSLl>`_, open it, create a Postman account if you don’t have one and choose to do so, and sign in.
 
-#. Import collection and environment:
-    – collection **`https://bit.ly/3h7x4CX<https://bit.ly/3h7x4CX>_`**
-    – environment **`https://bit.ly/30l3R1q<https://bit.ly/30l3R1q>_`**
+b. Import collection and environment:
+
+    – collection **<https://bit.ly/3h7x4CX>**
+    
+    – environment **<https://bit.ly/30l3R1q>**
 
    .. figure:: ../_figures/121.png
    .. figure:: ../_figures/121_1.png
