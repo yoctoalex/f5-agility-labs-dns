@@ -66,11 +66,11 @@ Postman Configuration
 
 a. `Download Postman here <http://bit.ly/309wSLl>`_, open it, create a Postman account if you don’t have one and choose to do so, and sign in.
 
-b. Import collection and environment JSON files from the `Git repo for this lab <https://github.com/f5devcentral/f5-cloudservicednslab/tree/master/postman>`_:
+b. Import collection and environment JSON files from the `Git repo for this lab <https://github.com/f5devcentral/f5-agility-labs-dns/tree/master/docs/class6/postman>`_:
 
-    – `collection <https://bit.ly/3h7x4CX>`_
+    – `collection <https://raw.githubusercontent.com/f5devcentral/f5-agility-labs-dns/master/docs/class6/postman/F5%20Cloud%20Services%20DNS%20LAB.postman_collection.json>`_
 
-    – `environment <https://bit.ly/30l3R1q>`_
+    – `environment <https://raw.githubusercontent.com/f5devcentral/f5-agility-labs-dns/master/docs/class6/postman/F5%20Cloud%20Services%20DNS%20LAB.postman_environment.json>`_
 
    .. figure:: ../_figures/121.png
    .. figure:: ../_figures/121_1.png

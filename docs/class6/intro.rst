@@ -20,7 +20,8 @@ In the process of this lab you will learn how to:
 Pre-Requisites
 --------------
 
-For the F5 Agility Lab session we recommend that you access the F5 Unified Demo Environment (UDF) session/class, which contains a Windows VM instance with all of the required software pre-installed. 
+For the F5 Agility Lab session we recommend that you access the F5 Unified Demo Environment (UDF) session/class, which contains a Windows VM instance with all of the required software pre-installed.
+You will then open a remote RDP session into your personal instance with the credentials provided in the `RDP Access Instructions for UDF Windows VM <http://>`_. 
 
 Alternatively, if you'd like to install the software on your computer (and if organization permits to do so), you can install the following software to complete the lab:
 
