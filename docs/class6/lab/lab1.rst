@@ -52,19 +52,12 @@ In order to access specific F5 Cloud Services, you need to subscribe to the corr
 
    .. figure:: ../_figures/5.png 
 
-Opera with VPN to Test Geo Services 
------------------------------------
-
-In order to test geo-proximity rules, you can use your own VPN service (if you have one), remote desktop to a VM in a different region (if you have one), or alternatively use the Opera browser (installed in your **UDF Course**), which is approach covered in this lab.
-
-Open the Opera browser, click **Settings**,  **Advanced**, **Features** and then **Enable VPN**.   
-
-.. figure:: ../_figures/7.png 
-
 Postman Configuration
 ---------------------
 
-**UDF**: If you're using the Unified Demo Environment (UDF) course, you already have Postman and relevant collections/environment settings configured for you in your personalized Windows VM. You may skip this section.
+**UDF**: If you're using the Unified Demo Environment (UDF) course, you already have Postman and the relevant collections & environment settings (outlined in red below) already configured for you in your personalized Windows VM. You may skip the rest of this section & move on to the Opera browser configuration.
+
+.. figure:: ../_figures/postman-udf.png
 
 If you're not using UDF, you can follow these steps for a new Postman installation:
 
@@ -86,6 +79,15 @@ b. Import collection and environment JSON files from the `Git repo for this lab 
    .. figure:: ../_figures/2.jpg 
 
    You are now ready to interface with the F5 Cloud Services using Postman. 
+
+Opera Browser with VPN to Test Geo Services 
+-------------------------------------------
+
+In order to test geo-proximity rules, you can use your own VPN service (if you have one), remote desktop to a VM in a different region (if you have one), or alternatively use the Opera browser (installed in your **UDF Course**), which is approach covered in this lab.
+
+Open the Opera browser, click **Settings**,  **Advanced**, **Features** and then **Enable VPN**.   
+
+.. figure:: ../_figures/7.png 
 
 Zone Name 
 ---------
