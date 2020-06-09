@@ -65,9 +65,9 @@ a. `Download Postman here <http://bit.ly/309wSLl>`_, open it, create a Postman a
 
 b. Import collection and environment JSON files from the `Git repo for this lab <https://github.com/f5devcentral/f5-agility-labs-dns/tree/master/docs/class6/postman>`_:
 
-    – `collection: **https://bit.ly/3cKitde**
+    – collection: **https://bit.ly/3cKitde**
 
-    – `environment: **https://bit.ly/2A6D8ew**
+    – environment: **https://bit.ly/2A6D8ew**
 
    .. figure:: ../_figures/121.png
    .. figure:: ../_figures/121_1.png
